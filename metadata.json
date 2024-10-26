@@ -1,12 +1,12 @@
 {
   "name": "Share",
   "symbol": "SHARE",
-  "description": "Description du token",
-  "image": "https://raw.githubusercontent.com/androde/share/master/logo.png",
+  "description": "The official SHARE token",
+  "image": "https://raw.githubusercontent.com/androdes/share/refs/heads/master/logo.png",
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/androde/share/master/logo.png",
+        "uri": "https://raw.githubusercontent.com/androdes/share/refs/heads/master/logo.png",
         "type": "image/png"
       }
     ]
