@@ -1,0 +1,14 @@
+{
+  "name": "Androverse (SHARE)",
+  "symbol": "SHARE",
+  "description": "The Androdverse token",
+  "image": "https://raw.githubusercontent.com/androdes/share/refs/heads/master/m.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/androdes/share/refs/heads/master/m.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
